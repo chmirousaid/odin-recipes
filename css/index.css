@@ -1,0 +1,14 @@
+/* this is a style file */
+
+img{
+ width: 100 px;
+ height: 200px;
+}
+
+ul{
+    list-style:none;   
+}
+
+h1{
+  color: #a61e1e;
+}
