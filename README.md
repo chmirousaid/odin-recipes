@@ -1,3 +1,3 @@
 # odin-recipes
-i am created this repos sucsessfully !
+i created this repos sucsessfully !
 Odin Recipes
