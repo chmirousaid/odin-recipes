@@ -20,8 +20,7 @@ img{
      background-color: rgb(142, 174, 93);
      position: sticky; /*to make the navbar visible while scrolling  */
      top: 0; /*sticky wont work without this*/
-     
-    
+        
  }
  
  a{
